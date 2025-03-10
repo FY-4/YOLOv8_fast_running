@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>photo_133.jpg</filename>
+	<path>F:\YOLO\0116_pt_test\yolov11\ultralytics-main\data\image\photo_133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CYLJ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>5</ymin>
+			<xmax>479</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>
