@@ -9,6 +9,10 @@ you can git my code in FY-4/YOLOv8_fast_running<br>
 I will tell the steps and use gpu to promote the process by the plateform named Autodl
 
 ## Structure
+>YOLOv8_fast_running
+>>my_data
+
+
 #### As you open the YOLOv8_fast_running<br>
 ```Bash
 cd YOLOv8_fast_running
