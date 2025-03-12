@@ -10,6 +10,7 @@ I will tell the steps and use gpu to promote the process by the plateform named 
 
 ## Structure
 >YOLOv8_fast_running
+
 >>my_data
 >>>images<br>
 >>>Annotations<br>
@@ -21,15 +22,24 @@ I will tell the steps and use gpu to promote the process by the plateform named 
 >>voc_label.py<br>
 >>split_train_val.py<br>
 
->README.md
+>README.md<br>
 
+## Steps
 
 #### As you open the YOLOv8_fast_running<br>
 ```Bash
 cd YOLOv8_fast_running
 ```
 #### YOLOv8_fast_running/my_data is your datasets
-#### 
+when you finish your dataset<br>
+```Bash
+python split_train_val.py
+python voc_label.py
+```
+#### As you finish to reset your 1.yaml file
+```Bash
+python train.py
+```
 
-## Steps
+
 
