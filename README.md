@@ -11,6 +11,17 @@ I will tell the steps and use gpu to promote the process by the plateform named 
 ## Structure
 >YOLOv8_fast_running
 >>my_data
+>>>images<br>
+>>>Annotations<br>
+>>>ImageSets<br>
+>>>labels<br>
+
+>>1.yaml<br>
+>>train.py<br>
+>>voc_label.py<br>
+>>split_train_val.py<br>
+
+>README.md
 
 
 #### As you open the YOLOv8_fast_running<br>
