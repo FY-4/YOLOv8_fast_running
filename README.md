@@ -40,6 +40,7 @@ python voc_label.py
 ```Bash
 python train.py
 ```
+#### Then if you step into process of trainning model , you can take a relax and wait for a moment which dependent on your trainning times.
 
 
 
