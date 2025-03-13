@@ -9,7 +9,7 @@ you can git my code in FY-4/YOLOv8_fast_running<br>
 I will tell the steps and use gpu to promote the process by the plateform named Autodl
 
 ## Structure
->YOLOv8_fast_running
+>YOLOv8_Finally
 
 >>my_data
 >>>images<br>
@@ -41,6 +41,13 @@ python voc_label.py
 python train.py
 ```
 #### Then if you step into process of trainning model , you can take a relax and wait for a moment which dependent on your trainning times.
+
+## Pay attention some details
+>>my_data
+>>>images<br>
+>>>Annotations<br>
+>>>ImageSets<br>
+>>>labels<br>
 
 
 
