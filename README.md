@@ -49,7 +49,7 @@ python train.py
 >>ImageSets<br>
 >>labels<br>
 
-this is the structure of your datasets<br>
+this is the structure of your datasets<br>*images* contains all of your original photos<br>
 
 
 
