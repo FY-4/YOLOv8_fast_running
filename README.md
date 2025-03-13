@@ -43,11 +43,13 @@ python train.py
 #### Then if you step into process of trainning model , you can take a relax and wait for a moment which dependent on your trainning times.
 
 ## Pay attention some details
->>my_data
->>>images<br>
->>>Annotations<br>
->>>ImageSets<br>
->>>labels<br>
+>my_data
+>>images<br>
+>>Annotations<br>
+>>ImageSets<br>
+>>labels<br>
+
+this is the structure of your datasets<br>
 
 
 
