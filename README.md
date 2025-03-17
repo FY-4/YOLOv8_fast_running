@@ -50,6 +50,15 @@ python train.py
 >>labels<br>
 
 this is the structure of your datasets<br>*images* contains all of your original photos<br>
+<br>
+the Annotations contain all the .xml files which is dealt by labellmg<br>so we can put the xml file in this directory<br>
+<br>
+ImageSets and labels do not request you to do something <br>
+just run<br>
 
+```Bash
+python split_train_val.py
+python voc_label.py
+```
 
 
