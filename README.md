@@ -44,7 +44,7 @@ python train.py
 ```
 #### Then if you step into process of trainning model , you can take a relax and wait for a moment which dependent on your trainning times.
 
-## Pay attention some details
+## Some details
 >my_data
 >>images<br>
 >>Annotations<br>
@@ -95,6 +95,6 @@ In voc_label.py
 sets = ['train', 'val', 'test']
 classes = ['CYLJ', 'KHSLJ', 'QTLJ', 'YHLJ']#111111111111111111111111111
 ```
-you must transfer the classes to your own classes<br>
+you must transfer the classes to your own classes, such as you make a dataset concerning person ,you can change the classes=["person"]<br>
 <br>
 
