@@ -53,6 +53,9 @@ python train.py
 
 this is the structure of your datasets<br>*images* contains all of your original photos<br>
 <br>
+```python
+python pictures.py
+```
 the Annotations contain all the .xml files which is dealt by labellmg<br>so we can put the xml file in this directory<br>
 <br>
 ImageSets and labels do not request you to do something <br>
