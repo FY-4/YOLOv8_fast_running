@@ -60,7 +60,7 @@ so that you can get whole datasets just by tap 'q' And the details concerning th
 <br>
 the Annotations contain all the .xml files which is dealt by labellmg so we can put the xml file in this directory<br>
 ![labellmg to get xml](images/lm.png)
-
+if you want to use this tool , just git clone labellmg_master
 <br>
 ImageSets and labels do not request you to do something just run<br>
 ```Bash
