@@ -3,6 +3,7 @@
 This project is mainly about getting started with yolov8 code quickly,  <br>
 which can help you run yolov8 quickly and implement yolo with only a few steps. <br>
 However, for the logic and details of the source code, please check the official code for yourself.
+![架构图](images/roboflow_whats_new_in_yolov8.jpg)
 
 ## Details
 you can git my code in FY-4/YOLOv8_fast_running<br>
