@@ -104,4 +104,4 @@ zip -r [name] [dir or file]
 <br>
 we will into the autodl(which i prefer to train my model)<br>
 
-![autodl](images/autodl.jpg)
+![autodl](images/autodl1.jpg)
