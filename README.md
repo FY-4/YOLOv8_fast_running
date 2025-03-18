@@ -37,7 +37,7 @@ when you finish your dataset<br>
 python split_train_val.py
 python voc_label.py
 ```
-![you will get files after you run the code](images/roboflow_whats_new_in_yolov8.jpg)
+![you will get files after you run the code](images/jiago.jpg)
 #### As you finish to reset your 1.yaml file
 ```Bash
 python train.py
