@@ -56,11 +56,13 @@ this is the structure of your datasets<br>*images* contains all of your original
 ```python
 python pictures.py
 ```
-the Annotations contain all the .xml files which is dealt by labellmg<br>so we can put the xml file in this directory<br>
+so that you can get whole datasets just by tap 'q' And the details concerning the comprehensive code waitting for you to search for<br>
 <br>
-ImageSets and labels do not request you to do something <br>
-just run<br>
+the Annotations contain all the .xml files which is dealt by labellmg so we can put the xml file in this directory<br>
+![labellmg to get xml](images/lm.png)
 
+<br>
+ImageSets and labels do not request you to do something just run<br>
 ```Bash
 python split_train_val.py
 python voc_label.py
