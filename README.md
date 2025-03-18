@@ -97,4 +97,11 @@ classes = ['CYLJ', 'KHSLJ', 'QTLJ', 'YHLJ']#111111111111111111111111111
 ```
 you must transfer the classes to your own classes, such as you make a dataset concerning person ,you can change the classes=["person"]<br>
 <br>
+if you want to train the model in the service plateform you can zip the whole project<br>
+```Bash
+zip -r [name] [dir or file]
+```
+<br>
+we will into the autodl(which i prefer to train my model)<br>
 
+![autodl](images/autodl.jpg)
